@@ -1,7 +1,7 @@
 # GAME LIST FROM CEMu 0.1 IN ANDROID
 ---
 
-GAME ROMS HERE 👇
+GET MORE ROMS HERE 👇
 https://chakielroms.com/wiiu/
 ---
 
@@ -22,5 +22,7 @@ https://chakielroms.com/wiiu/
 ---
 
 ### Special thanks to
-Chakiel<br/>
+Chakiel Zero<br/>
+[Chakiel Channel](https://www.youtube.com/@Chakielzero2)
+
 
