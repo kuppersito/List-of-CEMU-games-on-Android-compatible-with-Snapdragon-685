@@ -1,0 +1,55 @@
+# **Cemu - Emulador de Wii U**
+
+[![Proceso de compilación](https://github.com/cemu-project/Cemu/actions/workflows/build.yml/badge.svg)](https://github.com/cemu-project/Cemu/actions/workflows/build.yml)
+[![Discord](https://img.shields.io/discord/286429969104764928?label=Cemu&logo=discord&logoColor=FFFFFF)](https://discord.gg/5psYsup)
+[![Matriz Servidor](https://img.shields.io/matrix/cemu:cemu.info?server_fqdn=matrix.cemu.info&label=cemu:cemu.info&logo=matrix&logoColor=FFFFFF)](https://matrix.to/#/#cemu:cemu.info)
+
+Este es el repositorio de código de Cemu, un emulador de Wii U capaz de ejecutar la mayoría de los juegos de Wii U y homebrew de forma jugable.
+Está escrito en C/C++ y se encuentra en desarrollo activo con nuevas funciones y correcciones.
+
+Cemu actualmente solo está disponible para dispositivos Windows, Linux y macOS de 64 bits.
+
+### Enlaces:
+- [Anuncio de código abierto](https://www.reddit.com/r/cemu/comments/wwa22c/cemu_20_announcement_linux_builds_opensource_and/)
+- [Sitio web oficial](https://cemu.info)
+- [Lista de compatibilidad/Wiki](https://wiki.cemu.info/wiki/Main_Page)
+- [Subreddit oficial](https://reddit.com/r/Cemu)
+- [Discord oficial](https://discord.gg/5psYsup)
+- [Servidor oficial de Matrix](https://matrix.to/#/#cemu:cemu.info)
+- [Guía de configuración](https://cemu.cfw.guide)
+
+#### Otros repositorios relevantes:
+- [Cemu-Language](https://github.com/cemu-project/Cemu-Language)
+- [Paquetes gráficos de la comunidad de Cemu](https://github.com/cemu-project/cemu_graphic_packs)
+
+## Descargar
+
+Puedes descargar las últimas versiones de Cemu para Windows, Linux y Mac desde [GitHub Releases](https://github.com/cemu-project/Cemu/releases/). Para Linux, también puedes encontrar Cemu en [flathub](https://flathub.org/apps/info.cemu.Cemu).
+
+En Windows, Cemu solo está disponible en formato portable, por lo que no requiere instalación, salvo extraerlo en un lugar seguro.
+
+La compilación nativa para macOS es actualmente puramente experimental y no debe considerarse estable ni lista para un juego sin problemas. También se conocen problemas de rendimiento reducido debido al uso de MoltenVK y Rosetta para Mac ARM. Agradecemos su paciencia mientras mejoramos Cemu para macOS.
+
+Las versiones anteriores a la 2.0 se pueden encontrar en la página del registro de cambios de Cemu (https://cemu.info/changelog.html).
+
+## Instrucciones de compilación
+
+Para compilar Cemu usted mismo en Windows, Linux o macOS, consulte [BUILD.md](/BUILD.md).
+
+## Problemas
+
+Los problemas con el emulador deben reportarse mediante [GitHub Issues](https://github.com/cemu-project/Cemu/issues).
+
+El antiguo rastreador de errores se puede encontrar en [bugs.cemu.info](https://bugs.cemu.info) y aún contiene problemas relevantes y sugerencias de funciones.
+
+## Contribuciones
+
+Las solicitudes de incorporación de cambios son bienvenidas. Para facilitar la coordinación, puedes visitar el canal de discusión para desarrolladores en [Discord](https://discord.gg/5psYsup) o, alternativamente, el [Servidor Matrix](https://matrix.to/#/#cemu:cemu.info).
+Antes de enviar una solicitud de extracción, lee y sigue nuestras directrices de estilo de código, que se encuentran en [CODING_STYLE.md](/CODING_STYLE.md).
+
+Si programar no es lo tuyo, también se agradece probar juegos, generar informes de errores detallados o actualizar la wiki de compatibilidad (generalmente obsoleta).
+
+Las preguntas sobre la arquitectura de software de Cemu también se pueden resolver en Discord (o a través del puente Matrix).
+
+## Licencia
+Cemu cuenta con la licencia [Mozilla Public License 2.0](/LICENSE.txt). Quedan exentos de esta obligación todos los archivos del directorio de dependencias a los que se aplican las licencias del código original, así como algunos archivos individuales de la carpeta src, tal como se especifica en los encabezados de archivo.
