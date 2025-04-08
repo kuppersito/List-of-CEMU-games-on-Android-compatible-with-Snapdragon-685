@@ -25,7 +25,7 @@ https://chakielroms.com/wiiu/
 ### Special thanks to ❤ / Un agradecimiento especial para
 Chakiel Zero<br/>
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
-CEMU PROJECT 
+CEMU PROJECT/> 
 [Cemu oficial project](https://github.com/cemu-project/Cemu)
 
 
