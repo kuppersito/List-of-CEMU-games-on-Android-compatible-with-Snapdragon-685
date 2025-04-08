@@ -10,7 +10,7 @@ https://chakielroms.com/wiiu/
 
 
 
-# GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) 
+# GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
 - [Mario Kart 8](https://chakielroms.com/wiiu/)
 - Gameplay MK8(https://www.youtube.com/watch?v=k5P_-4B1ESU)
 - [Ducktales Remastered](https://chakielroms.com/wiiu/)
