@@ -3,3 +3,4 @@ https://chakielroms.com/wiiu/
 https://switchrom.net/
 Discord from Chakiel 
 https://discord.gg/k5kM8PTD
+This is my first github repository
