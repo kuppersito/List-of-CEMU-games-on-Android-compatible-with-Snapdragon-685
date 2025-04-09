@@ -1,4 +1,4 @@
-# GAME LIST FROM CEMu 0.1 IN ANDROID
+# 𝘎𝘈𝘔𝘌 𝘓𝘐𝘚𝘛 𝘍𝘙𝘖𝘔 𝘊𝘌𝘔𝘶 0.1 𝘐𝘕 𝘈𝘕𝘋𝘙𝘖𝘐𝘋
 ## ⚠Aclarations:Some gameplays you will see below are not updated to the current version of cemu on android.
 ---
 ## ⚠Aclaraciones:Algunos gameplays que verás a continuación no están actualizados a la versión actual de cemu en Android.
