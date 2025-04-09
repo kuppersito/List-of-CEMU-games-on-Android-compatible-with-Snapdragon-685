@@ -3,18 +3,18 @@
 ---
 ⚠Aclaraciones:Algunos gameplays que verás a continuación no están actualizados a la versión actual de cemu en Android.
 ---
-
+---
 GET MORE ROMS HERE 👇/ Obten las roms aqui👇
 https://chakielroms.com/wiiu/ 
 ---
 
 
 
-# GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
+### GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
 - [Mario Kart 8](https://chakielroms.com/wiiu/)
-- Gameplay MK8(https://www.youtube.com/watch?v=k5P_-4B1ESU)
+/ Gameplay(https://www.youtube.com/watch?v=k5P_-4B1ESU)
 - [Ducktales Remastered](https://chakielroms.com/wiiu/)
-- Gameplay Ducktales Remastered(https://www.youtube.com/watch?v=YlIQcIbxUb4)
+/ Gameplay(https://www.youtube.com/watch?v=YlIQcIbxUb4)
 - 
 - 
 
@@ -26,6 +26,8 @@ https://chakielroms.com/wiiu/
 Chakiel Zero<br/>
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
 
+---
+Cemu android developers<br/>
 [Cemu oficial project](https://github.com/cemu-project/Cemu)
 
 
