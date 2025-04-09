@@ -5,7 +5,7 @@
 ---
 
 GET MORE ROMS HERE 👇/ Obten las roms aqui👇
-https://chakielroms.com/wiiu/
+https://chakielroms.com/wiiu/ 
 ---
 
 
@@ -25,7 +25,7 @@ https://chakielroms.com/wiiu/
 ### Special thanks to ❤ / Un agradecimiento especial para
 Chakiel Zero<br/>
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
-CEMU PROJECT<br/>
+Cemu Pr0ject<br/>
 [Cemu oficial project](https://github.com/cemu-project/Cemu)
 
 
