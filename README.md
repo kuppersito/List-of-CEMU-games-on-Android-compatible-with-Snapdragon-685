@@ -21,12 +21,6 @@
 
 
 -
-
-  
-
-
-
-
 ---
 
 ### Special thanks to  / Un agradecimiento especial para
