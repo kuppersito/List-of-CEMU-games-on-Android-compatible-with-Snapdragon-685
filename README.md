@@ -27,11 +27,13 @@
 ---
 
 ### Special thanks to  / Un agradecimiento especial para
-Chakiel Zero<br/>
+ Chakiel Zero<br/>
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
 
 ---
-Cemu android developers<br/>
+ CEMU ANDROID GITHUB<br/>
+ ![image](https://github.com/user-attachments/assets/b645c4ec-ac06-41d9-acdc-8049cc5f60ab)
+---
 [Cemu oficial project](https://github.com/cemu-project/Cemu)
 
 
