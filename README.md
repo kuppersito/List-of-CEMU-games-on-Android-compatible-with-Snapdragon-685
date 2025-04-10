@@ -1,5 +1,4 @@
-# 𝘎𝘈𝘔𝘌 𝘓𝘐𝘚𝘛 𝘍𝘙𝘖𝘔 𝘊𝘌𝘔𝘶 0.1 𝘐𝘕 𝘈𝘕𝘋𝘙𝘖𝘐𝘋 
-![image](https://github.com/user-attachments/assets/845b655e-ec73-4ff3-ac9f-0ce2fac8041b) ![image](https://github.com/user-attachments/assets/7e311d70-44ee-4fa4-bc51-ad0414f4aff1)
+# 𝘎𝘈𝘔𝘌 𝘓𝘐𝘚𝘛 𝘍𝘙𝘖𝘔 𝘊𝘌𝘔𝘶 0.1 𝘐𝘕 𝘈𝘕𝘋𝘙𝘖𝘐𝘋 ![image](https://github.com/user-attachments/assets/7e311d70-44ee-4fa4-bc51-ad0414f4aff1)
 
 
 ### ⚠Aclarations:Some gameplays you will see below are not updated to the current version of cemu on android.
