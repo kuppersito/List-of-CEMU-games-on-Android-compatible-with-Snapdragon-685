@@ -7,19 +7,19 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/8e4a3bdf-8666-43a6-8610-50e37142da45)
 
-
-
----
 ![Patched](https://img.shields.io/badge/GAMELIST-for%20kuppersito-blueviolet) ![Patched](https://img.shields.io/badge/CEMUANDROID-for%20CEMU-greenviolet) 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ### GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
-- [Mario Kart 8](https://chakielroms.com/wiiu/)
-/ [Gameplay](https://www.youtube.com/watch?v=k5P_-4B1ESU)
-- [Ducktales Remastered](https://chakielroms.com/wiiu/)
-/ [Gameplay](https://www.youtube.com/watch?v=YlIQcIbxUb4)
+- # [Mario Kart 8](https://chakielroms.com/wiiu/)
+- ![image](https://github.com/user-attachments/assets/c6496606-ce6b-409a-bb57-eba9e3786c2f)
+
+
+- # [Ducktales Remastered](https://chakielroms.com/wiiu/)
+- ![image](https://github.com/user-attachments/assets/784b674a-3415-4389-9291-17303c91a0a4)
+
+
 -
 
   
@@ -30,7 +30,7 @@
 ---
 
 ### Special thanks to  / Un agradecimiento especial para
-# CHAKIEL ZERO<br/>
+### CHAKIEL ZERO<br/>
 ![image](https://github.com/user-attachments/assets/25a29cea-bc7d-4e0c-876d-a902a5161608)
 
 
@@ -39,7 +39,7 @@
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
 
 ---
-# CEMU ANDROID GITHUB<br/>
+### CEMU ANDROID GITHUB<br/>
  ![image](https://github.com/user-attachments/assets/b645c4ec-ac06-41d9-acdc-8049cc5f60ab)
 ---
 [Cemu oficial project](https://github.com/cemu-project/Cemu)
