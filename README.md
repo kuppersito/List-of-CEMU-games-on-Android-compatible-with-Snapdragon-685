@@ -9,7 +9,7 @@
 ### GET MORE ROMS HERE 👇/ Obten las roms aqui👇
 ### https://chakielroms.com/wiiu/ 
 ---
-![Patched](https://img.shields.io/badge/GAMELIST-for%20kuppersito-blueviolet)
+![Patched](https://img.shields.io/badge/GAMELIST-for%20kuppersito-blueviolet) ![Patched](https://img.shields.io/badge/ChakielRoms-for%20kuppersito-greenviolet) 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ### GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
@@ -26,7 +26,7 @@
 
 ---
 
-### Special thanks to ❤ / Un agradecimiento especial para
+### Special thanks to  / Un agradecimiento especial para
 Chakiel Zero<br/>
 [Chakiel Channel](https://www.youtube.com/@Chakielzero2)
 
