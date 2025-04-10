@@ -8,7 +8,7 @@
 ---
 
 
-![Patched](https://img.shields.io/badge/GAMELIST-for%20kuppersito-blueviolet) ![Patched](https://img.shields.io/badge/CEMUANDROID-for%20CEMU-greenviolet) 
+![Patched](https://img.shields.io/badge/Discord-%20Sspikid12_35287-blueviolet) ![Patched](https://img.shields.io/badge/CEMUANDROID-for%20CEMU-greenviolet) 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ### GAMES COMPATIBLE WITH C3MU (CEMu android 0.1) Snapdragon 685 (GAMA MEDIA)
